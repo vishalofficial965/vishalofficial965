@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I'm Vishal Anand – a Software Engineer and an NIT Warangal post graduate.  <br/><br>💻 I specialize in building scalable web apps using Django, JavaScript, Java, C/C++ & MySQL.  <br/><br>🚀 Passionate about solving real-world problems through clean and efficient code.  <br/><br>📂 Check out my projects for e-commerce, blogging platforms, Video Streaming application , Portfolio website and more!    <br/><br>📫 Let's connect: [Portfolio](https://vishalanandwebsite.netlify.app/) || [Linkedin](https://www.linkedin.com/in/vishalofficial965/)<br>
+👋 Hi, I'm Vishal Anand – a Software Engineer and an NIT Warangal post graduate.  <br/><br>💻 I specialize in building scalable web apps using Django, JavaScript, Java, C/C++ & MySQL.  <br/><br>🚀 Passionate about solving real-world problems through clean and efficient code.  <br/><br>📂 Check out my projects for e-commerce, blogging platforms, Video Streaming application , Portfolio website and more!    <br/><br>📫 Let's connect: [Portfolio](https://vishalanandwebsite.netlify.app/) || [Linkedin]([https://www.linkedin.com/in/vishalofficial965/)<](https://www.linkedin.com/in/vishalofficial965/)br>
 
 
 ## 🌐 Socials:
